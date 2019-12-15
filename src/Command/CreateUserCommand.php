@@ -38,7 +38,7 @@ class CreateUserCommand extends Command
     public function execute(InputInterface $input, OutputInterface $output)
     {
         $output->writeln([
-            'User Creator',
+            'User1 Creator',
             '============',
             '',
         ]);
